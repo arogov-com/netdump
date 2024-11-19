@@ -1,3 +1,5 @@
+// Copyright (C) 2009 Aleksei Rogov <alekzzzr@gmail.com>. All rights reserved.
+
 /* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
 /* DO NOT EDIT ! */
 

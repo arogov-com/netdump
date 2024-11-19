@@ -1,3 +1,5 @@
+// Copyright (C) 2009 Aleksei Rogov <alekzzzr@gmail.com>. All rights reserved.
+
 #include <windows.h>
 #include <iptypes.h>
 #include <iphlpapi.h>
